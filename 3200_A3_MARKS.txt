@@ -1,0 +1,30 @@
+Computer Science 3200
+Assignment 3 - Connect 4 Alpha Beta
+
+Student(s): 
+
+Code Style / Modularity / Readability                           05/05 
+
+    - Code has consistent indenting
+    - Functions used where appropriate
+    - Assignment comments removed
+    - Student comments where explanation necessary
+    
+Heuristic                                                       10/10
+
+    - Your heuristic did something semi intelligent
+    
+IDAB                                                            30/30
+
+    - IDAB properly sets current max depth, calls AB
+    - IDAB only updates action of completed AB searches
+    - IDAB passes all 4 tests given with the assignment
+
+AB                                                              50/50
+
+    - Alpha Beta code works correctly
+        
+
+
+Max Assignment Mark                                           100/100
+    
